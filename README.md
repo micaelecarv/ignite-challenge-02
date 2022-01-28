@@ -29,7 +29,15 @@ $ yarn
 # Iniciar o projeto
 $ yarn dev
 ```
-A aplicação estará disponível no seu browser pelo endereço http://localhost:3000.
+A aplicação estará disponível no seu browser pelo endereço http://localhost:8080.
+
+Para simular a API que possui as informações de gêneros e filmes, navegue até a pasta criada, abra no VS Code e execute os seguintes comandos no terminal:
+```bash
+$ yarn
+$ yarn server
+````
+
+A apliação iniciará uma fake API com os recursos /genres e /movies no endereço http:/localhost:3333 a partir das informações do arquivo server.json localizado na raiz do projeto. Acessando essas rotas no navegador, você verá o retorno das informações já em JSON.
 
 ## 📝 License
 
