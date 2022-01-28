@@ -6,11 +6,9 @@
 
 ## 💻 Desafio
 
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
+Nesse desafio, o objetivo é criar uma aplicação para treinar o que foi aprendido até agora do Módulo 02 da trilha de ReactJS.
 
-Essa será uma aplicação onde o seu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero.
-
-- Criar os componentes SideBar e Content.
+Cuja missão consiste em refatorar uma página para listagem de filmes de acordo com gênero por meio da criação dos componentes SideBar e Content.
 
 
 ## 🚀 Como executar
